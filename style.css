@@ -1,0 +1,35 @@
+.container {
+	font-family: Lato;
+	margin: 0 auto;
+}
+
+.section-header{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.paper{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+a, a > tt {
+	color: #006699;
+	text-decoration: none;
+}
+
+em {
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
+h1, h2, h3, colored{
+	color: #006699;
+}
+
+.icon{
+  width: 45px;
+  height: 45px;
+}
